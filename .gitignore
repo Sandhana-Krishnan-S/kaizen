@@ -1,0 +1,5 @@
+# compiled binaries
+a.out
+
+# object files
+*.o
