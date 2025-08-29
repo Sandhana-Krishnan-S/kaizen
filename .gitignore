@@ -1,5 +1,4 @@
-# compiled binaries
+# binaries
+/build/
+/*.o
 a.out
-
-# object files
-*.o
